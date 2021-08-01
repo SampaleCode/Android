@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login With SignUp</string>
+
+    <string name="edit_userid">User ID</string>
+    <string name="edit_password">Password</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">SignUp</string>
+    <string name="login_form">Login Form</string>
+    <string name="sample_code">Sample Code</string>
+    <string name="btn_back">Back</string>
+    <string name="signup_form">Signup Form</string>
+    <string name="edit_user_name">User Name</string>
+    <string name="edit_user_email">Email Address</string>
+    <string name="edit_confirm_password">Confirm Password</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+</resources>
